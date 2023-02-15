@@ -20,8 +20,8 @@ resource "azurerm_resource_group" "rg" {
   location = "centralindia"
 
   tags = {
-    Environment = "Terraform Getting Started"
-    Team = "DevOps"
+    Environment = "Terraform first"
+    Team = "Sagar-DevOps"
   }
 }
 
